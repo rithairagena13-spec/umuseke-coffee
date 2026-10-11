@@ -1,5 +1,11 @@
 # Umuseke Café — Landing Page Rebuild
 
+I first built the Umuseke Café landing page using HTML and plain CSS, writing custom styles to control the layout, colors, spacing, and responsiveness.
+
+After completing the original version, I rebuilt the page using Tailwind CSS v4. I configured the Tailwind CLI to generate the CSS output and used utility classes directly in the HTML to style the page.
+
+Working with both versions helped me understand the difference between writing custom CSS rules and using a utility-first CSS framework. I used Git and GitHub to track and publish my project progress.
+
 A café landing page rebuilt using two approaches: plain CSS and Tailwind CSS.
 
 ## Project Overview
